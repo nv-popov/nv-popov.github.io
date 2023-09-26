@@ -1,0 +1,9 @@
+h1, h2 {
+    text-align: center;
+}
+
+body {
+    margin: auto;
+    background-color: rgba(173, 216, 230, 0.5);
+    width: 400px;
+}
